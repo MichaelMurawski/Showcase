@@ -10,10 +10,10 @@ When I find the time, I will also add extensive explanations for the code.
 The same also applies for translation of old assignments and code in German language.
 
 Topics my code covers or will cover
-Operational tools (VBA)
-Spreadsheets and Code for private investing (Portfolio analysis)
-Dataset Analysis (Time-series, Cross Sectional,Panel)
-Data Visualization 
+Operational tools,
+Spreadsheets and Code for private investing (Portfolio analysis),
+Dataset Analysis (Time-series, Cross Sectional,Panel),
+Data Visualization &
 Machine Learning/AI Models
 
 Have fun with the code
