@@ -1,10 +1,11 @@
-###Assignment 1
+###Workshop 1
+###Assignment 1 
 
 #by Michael Murawski
 
 ############################ Task 1
 
-setwd("C:/Users/Michael/Desktop/Uni R") #please adjust
+setwd("") #please adjust
 getwd
 read.table("leistungstest.dat")
 
