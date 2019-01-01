@@ -15,10 +15,10 @@ MyData[order(MyData$schule,MyData$klasse),] #Sort by schools and classes
 
 #levels(MyData$geschl)<-c("male","female")
 #levels(MyData$geschl)
-################# Transform prior gender (0,1) with male,female
+################# How to transform gender expressed with (0,1) into male,female
 
 
-MyData$geschl <- factor(MyData$geschl) #Transformation into factor
+MyData$geschl <- factor(MyData$geschl) #Transformation gender into factor
 str(MyData$geschl)
 MyData$geschl
 
