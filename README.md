@@ -12,10 +12,10 @@ DTML (1) = Machine Learning - Decision Tree Model
 You can find the majority of my code here. I primarily use R,Python and VBA.
 The upload format is usually a source file or a comprehensive PDF File.
 
-Since I am a self-starter and I don't have a computer science background, the code works, but is usually not very efficient and the formal code quality is not flawless.
+Since I am a self-starter and I don't have a computer science background, the code works, but is usually not the most very efficient 
 
-When I find the time, I will also add extensive explanations for the code.
-The same also applies for translation of old assignments and code in German language.
+Within the next 3 months, I will also add extensive explanations for the code.
+The same also applies for translation of old assignments and code German language into English.
 
 Topics my code will cover:                                                                                                                                                  
 #Operational tools                                                                                                                          
