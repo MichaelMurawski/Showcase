@@ -1,7 +1,7 @@
 # Showcase
 Showcase for code and solved assignments
 
-WS (1) = Workshop 1, focus on Descriptive statistics 
+WS (1) = Workshop 1, focus on Descriptive statistics                                                                                                                  
 WS (2) = Workshop 2, focus on Inferential statistics
 
 TS (1) = Time-Series Class (currently in process)
@@ -17,12 +17,12 @@ Since I am a self-starter and I don't have a computer science background, the co
 When I find the time, I will also add extensive explanations for the code.
 The same also applies for translation of old assignments and code in German language.
 
-Topics my code will cover:
-#Operational tools
-#Spreadsheets and Code for private investing (Portfolio analysis)
-#Dataset Analysis (Time-series, Cross Sectional,Panel)
-#Data Visualization 
-#Machine Learning/AI Models
+Topics my code will cover:                                                                                                                                                  
+#Operational tools                                                                                                                          
+#Spreadsheets and Code for private investing (Portfolio analysis)                                                                                                                                                              
+#Dataset Analysis (Time-series, Cross Sectional,Panel)                                                                                           
+#Data Visualization                                                                                                                       
+#Machine Learning/AI Models                                                                                                                   
 
 Have fun with the code
 
