@@ -14,8 +14,8 @@ The upload format is usually a source file or a comprehensive PDF File.
 
 Since I am a self-starter and I don't have a computer science background, the code works, but is usually not the most efficient 
 
-Within the next 3 months, I will also add extensive explanations for the code.
-The same also applies for translation of old assignments and code German language into English.
+Within the next 3 months, I will also add extensive explanations for the code.                                                                         
+The same also applies for translation of old assignments and code from German language into English.
 
 Topics my code will cover:                                                                                                                                                  
 #Operational tools                                                                                                                          
