@@ -2,11 +2,11 @@
 Showcase for code and solved assignments
 
 WS (1) = Workshop 1, focus on Descriptive statistics                                                                                                                  
-WS (2) = Workshop 2, focus on Inferential statistics
+WS (2) = Workshop 2, focus on Inferential statistics (will upload shortly)
 
 TS (1) = Time-Series Class (currently in process)
 
-DTML (1) = Machine Learning - Decision Tree Model
+DTML (1) = Machine Learning - Decision Tree Model (will upload shortly)
 
 
 You can find the majority of my code here. I primarily use R,Python and VBA.
