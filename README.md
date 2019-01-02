@@ -6,7 +6,7 @@ WS (2) = Workshop 2, focus on Inferential statistics
 
 TS (1) = Time-Series Class (currently in process)
 
-DC (1) = Machine Learning - Decision Tree Model
+DTML (1) = Machine Learning - Decision Tree Model
 
 
 You can find the majority of my code here. I primarily use R,Python and VBA.
