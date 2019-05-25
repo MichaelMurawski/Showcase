@@ -2,9 +2,9 @@
 Showcase for code and solved assignments
 
 WS (1) = Workshop 1, focus on Descriptive statistics                                                                                                                  
-WS (2) = Workshop 2, focus on Inferential statistics (will upload shortly)
+WS (2) = Workshop 2, focus on Inferential statistics 
 
-TS (1) = Time-Series Class (currently in process)
+TS (1) = Time-Series Class (finished in january for hand-in, but not ready for posting yet)
 
 DTML (1) = Machine Learning - Decision Tree Model (will upload shortly)
 
@@ -22,7 +22,7 @@ Topics my code will cover:
 #Spreadsheets and Code for private investing (Portfolio analysis)                                                                                                                                                              
 #Dataset Analysis (Time-series, Cross Sectional,Panel)                                                                                           
 #Data Visualization                                                                                                                       
-#Machine Learning/AI Models                                                                                                                   
+#simple Machine Learning/AI Models                                                                                                                   
 
 Have fun with the code
 
