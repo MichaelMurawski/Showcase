@@ -1,28 +1,25 @@
 # Showcase
 Showcase for code and solved assignments
 
-WS (1) = Workshop 1, focus on Descriptive statistics                                                                                                                  
-WS (2) = Workshop 2, focus on Inferential statistics 
 
-TS (1) = Time-Series Class (finished in january for hand-in, but not ready for posting yet)
-
-DTML (1) = Machine Learning - Decision Tree Model (will upload shortly)
-
-
-You can find the majority of my code here. I primarily use R,Python and VBA.
+You can find the majority of my code or excel models here. I exclusively use Excel, VBA and R.
 The upload format is usually a source file or a comprehensive PDF File.
 
 Since I am a self-starter and I don't have a computer science background, the code works, but is usually not the most efficient 
 
-Within the next 3 months, I will also add extensive explanations for the code.                                                                         
-The same also applies for translation of old assignments and code from German language into English.
+I am currently using my "Covid free time" to build a typical integrated 3-statement model with a dashboard based on youtube tutorials and the "Gridlines Essential Financial Modelling" Course.
 
-Topics my code will cover:                                                                                                                                                  
-#Operational tools                                                                                                                          
-#Spreadsheets and Code for private investing (Portfolio analysis)                                                                                                                                                              
-#Dataset Analysis (Time-series, Cross Sectional,Panel)                                                                                           
-#Data Visualization                                                                                                                       
-#simple Machine Learning/AI Models                                                                                                                   
+
+Further uploads will cover:
+                                                                                                                                               
+#Operational tools (Automation solutions for formatting and rearranging data)                                                                                                       #Spreadsheets and Financial models for private investing (DCF,Portfolio optimization)                                                                                               #Dataset Analysis (Time-series, Cross Sectional,Panel - I am planning to study econometrics in-depth during my masters next year)                                                #Data Visualization (I want to learn how to use ggplot2)                                                                                                                      
+#simple Machine Learning/AI Models  (I have some experience with decision tree algorithms and K-Nearest neighbour algorithms using the "Iris flower" dataset as training data)                                                                                                                
 
 Have fun with the code
 
+
+
+WS (1) = Workshop 1, focus on Descriptive statistics                                                                                                                  
+WS (2) = Workshop 2, focus on Inferential statistics 
+
+TS (1) = Time-Series Class (finished, but not ready for posting yet)
