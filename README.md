@@ -17,6 +17,8 @@ Further uploads will cover:
 
 Have fun with the code
 
+Kindest regards,
+Michael
 
 
 WS (1) = Workshop 1, focus on Descriptive statistics                                                                                                                  
