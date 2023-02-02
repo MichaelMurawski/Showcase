@@ -12,7 +12,7 @@ I am currently using my "Covid free time" to build a typical integrated 3-statem
 
 Further uploads will cover:
                                                                                                                                                
-#Operational tools (Automation solutions for formatting and rearranging data)                                                                                                       #Spreadsheets and Financial models for private investing (DCF,Portfolio optimization)                                                                                               #Dataset Analysis (Time-series, Cross Sectional,Panel - I am planning to study econometrics in-depth during my masters next year)                                                #Data Visualization (I want to learn how to use ggplot2)                                                                                                                      
+#Operational tools (Automation solutions for formatting and rearranging data)                                                                                                       #Spreadsheets and Financial models for private investing (DCF, Portfolio optimization)                                                                                               #Dataset Analysis (Time-series, Cross Sectional, Panel - I am planning to study econometrics in-depth during my masters next year)                                                #Data Visualization (I want to learn how to use ggplot2)                                                                                                                      
 #simple Machine Learning/AI Models  (I have some experience with decision tree algorithms and K-Nearest neighbour algorithms using the "Iris flower" dataset as training data)                                                                                                                
 
 Have fun with the code
@@ -23,5 +23,4 @@ Michael
 
 WS (1) = Workshop 1, focus on Descriptive statistics                                                                                                                  
 WS (2) = Workshop 2, focus on Inferential statistics 
-
-TS (1) = Time-Series Class (finished, but not ready for posting yet)
+TS () = Time-Series
